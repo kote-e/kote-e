@@ -1,7 +1,7 @@
 # Hi, I’m @kote-e
 
 Soy estudiante universitaria de Ingeniería Informática
-Actualmente estudio y desarrollo proyectos relacionados con programación y. 
+Actualmente estudio y desarrollo proyectos relacionados con programación. 
 Me gusta mucho compartir lo que sé y ayudar a otros.
 
 ##🚀 ¿Qué encontrarás en mi GitHub?
