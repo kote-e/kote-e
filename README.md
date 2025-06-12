@@ -4,7 +4,7 @@ Soy estudiante universitaria de Ingeniería Informática
 Actualmente estudio y desarrollo proyectos relacionados con programación. 
 Me gusta mucho compartir lo que sé y ayudar a otros.
 
-##🚀 ¿Qué encontrarás en mi GitHub?
+## 🚀 ¿Qué encontrarás en mi GitHub?
 
 Proyectos de programación, ejercicios y retos que voy resolviendo, además de proyectos de equipo.
 
