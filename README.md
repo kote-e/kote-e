@@ -13,7 +13,8 @@ Proyectos de programación, ejercicios y retos que voy resolviendo, además de p
 - Trabajo en equipo y ganas de aprender siempre
 
 ## 🌟 Proyectos Destacados  
-- **[Nonogram](https://github.com/kote-e/nonogram)**: Juego de lógica en Python usando Pygame.  
+- **[Nonogram](https://github.com/kote-e/nonogram)**: Juego de lógica en Python usando Pygame.
+- **[clases_python]([clases_python](https://github.com/kote-e/codigos.py/tree/main/clases_python))**: estas son clase de python que hice por si te interesa aprender.
 - **Voluntariado Technovation Girls**: Clases y mentorías en programación para niñas (no es repo, pero es súper importante para mí :3 ).
 
 ## 📬 Contacto
