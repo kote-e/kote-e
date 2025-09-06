@@ -9,7 +9,7 @@ Me gusta mucho compartir lo que sé y ayudar a otros.
 Proyectos de programación, ejercicios y retos que voy resolviendo, además de proyectos de equipo.
 
 ## 🌱 Habilidades
-- **Lenguajes de programación:** Python 🐍, Java ☕, C 💻
+- **Lenguajes de programación:** Python, c++, C 
 - Trabajo en equipo y ganas de aprender siempre
 
 ## 🌟 Proyectos Destacados  
